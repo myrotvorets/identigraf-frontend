@@ -25,7 +25,7 @@
     "@babel/preset-typescript": "^7.12.7",
     "@bugsnag/js": "^7.6.0",
     "@myrotvorets/eslint-config-myrotvorets-preact-ts": "^2.2.2",
-    "@types/grecaptcha": "^3.0.1",
+    "@types/grecaptcha": "^3.0.3",
     "@types/mini-css-extract-plugin": "^2.0.0",
     "@types/node": "^15.9.0",
     "@types/svgo": "^2.0.0",
