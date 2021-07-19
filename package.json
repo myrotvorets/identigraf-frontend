@@ -41,7 +41,7 @@
     "css-loader": "^5.0.1",
     "cssnano": "^5.0.0",
     "ejs-compiled-loader": "^3.1.0",
-    "eslint": "^7.18.0",
+    "eslint": "^7.31.0",
     "eslint-formatter-gha": "^1.2.0",
     "extract-loader": "^5.1.0",
     "fibers": "^5.0.0",
